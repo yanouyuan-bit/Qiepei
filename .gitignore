@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+# 用户自己的文献与产出不入库
+文献/
+*.pdf
